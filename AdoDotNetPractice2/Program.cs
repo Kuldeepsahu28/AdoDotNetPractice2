@@ -5,6 +5,7 @@ namespace AdoDotNetPractice2
 {
     class Program
     {
+        // Hi, This is Main method - starting point of project
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
