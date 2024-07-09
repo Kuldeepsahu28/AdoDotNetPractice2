@@ -7,7 +7,7 @@ namespace AdoDotNetPractice2
     {
         // Hi, This is Main method - starting point of project
         // I'm from Main branch
-        // There is all code
+        
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
