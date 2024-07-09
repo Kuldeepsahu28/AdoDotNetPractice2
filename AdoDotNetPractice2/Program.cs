@@ -6,7 +6,7 @@ namespace AdoDotNetPractice2
     class Program
     {
         // Hi, This is Main method - starting point of project
-        // I'm from Main branch
+      
         
         static void Main(string[] args)
         {
