@@ -8,7 +8,7 @@ namespace AdoDotNetPractice2
         
       
        
-        
+        // All deleted!
 
         static void Main(string[] args)
         {
