@@ -9,6 +9,7 @@ namespace AdoDotNetPractice2
       
        
         // All deleted!
+        // Fetch!
 
         static void Main(string[] args)
         {
