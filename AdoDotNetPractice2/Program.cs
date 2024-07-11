@@ -7,9 +7,7 @@ namespace AdoDotNetPractice2
     {
         
       
-        // This is Main method - starting point of project.
-        // this code is written by Bablusahu27.
-        // 3rd line written by bs27.
+       
         
 
         static void Main(string[] args)
